@@ -2,10 +2,10 @@ about:
   description: "TUI multiline fuzzy document finder"
   license: MIT
   homepage: https://darrenldl.github.io/docfd/
-  head: 67e7f27
+  head: 1d49982
   archived: false
   latestVersion: "13.1.0"
-  collectedAt: 2026-09-07T05:18:16Z
+  collectedAt: 2026-09-07T19:06:11Z
 timeline:
   created: 2022-03-02
   lastCommit: 2026-09-07
@@ -19,7 +19,7 @@ popularity:
   pullRequest: 2
   issue: 18
 language:
-  OCaml: 474823
+  OCaml: 473789
   Terra: 84631
   Raku: 18064
   Makefile: 2346
@@ -27,7 +27,7 @@ language:
   Dune: 1692
   Tape: 892
   Python: 529
-totalBytes: 585179
+totalBytes: 584145
 recent:
   last30d:
     since: 2026-08-08
@@ -36,7 +36,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 109
+    commit: 121
   last60d:
     since: 2026-07-09
     release: 2
@@ -44,7 +44,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 125
+    commit: 137
   last90d:
     since: 2026-06-09
     release: 3
@@ -52,7 +52,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 129
+    commit: 141
   last180d:
     since: 2026-03-11
     release: 4
@@ -60,7 +60,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 233
+    commit: 245
   last360d:
     since: 2025-09-12
     release: 11
@@ -68,7 +68,7 @@ recent:
     openPR: 0
     closedIssue: 2
     openIssue: 1
-    commit: 394
+    commit: 406
   last720d:
     since: 2024-09-17
     release: 33
@@ -76,22 +76,22 @@ recent:
     openPR: 0
     closedIssue: 8
     openIssue: 2
-    commit: 1186
+    commit: 1198
 total:
   release: 114
   mergedPR: 2
   openPR: 0
   closedIssue: 15
   openIssue: 3
-  commit: 2515
+  commit: 2527
 ---
 path: /home/runner/.x-repo/github.com/darrenldl/docfd
-collectedAt: 2026-09-07T05:18:20Z
+collectedAt: 2026-09-07T19:06:15Z
 loc:
   OCaml:
-    code: 14905
+    code: 14868
     comments: 122
-    blanks: 1073
+    blanks: 1066
     files: 75
   Sh:
     code: 80
@@ -110,7 +110,7 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1180
+    comments: 1183
     blanks: 740
     files: 2
   Text:
@@ -119,15 +119,15 @@ loc:
     blanks: 33
     files: 11
 total:
-  code: 15073
-  comments: 1346
-  blanks: 1900
+  code: 15036
+  comments: 1349
+  blanks: 1893
   files: 93
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:18:21+00:00
+  collectedAt: 2026-09-07T19:06:16+00:00
   platform:
     darwin/arm64:
       name:  docfd-13.1.0-macos.tar.gz
