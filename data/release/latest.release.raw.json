@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3187705,
       "digest": "sha256:620a69ee6906e7f11b040c7af19899719bd69e7bbc0db6cd1eb4fc59e1891a81",
-      "download_count": 0,
+      "download_count": 1,
       "created_at": "2026-08-27T14:12:02Z",
       "updated_at": "2026-08-27T14:12:03Z",
       "browser_download_url": "https://github.com/darrenldl/docfd/releases/download/13.1.0/docfd-13.1.0-macos.tar.gz"
