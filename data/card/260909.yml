@@ -7,7 +7,7 @@ about:
   latestVersion: "13.1.1"
   latestRelease: "13.1.1"
   latestPrerelease: "preview"
-  collectedAt: 2026-09-09T05:37:23Z
+  collectedAt: 2026-09-09T19:49:19Z
 timeline:
   created: 2022-03-02
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-04-26
 popularity:
-  star: 288
+  star: 289
   watcher: 2
   fork: 5
   release: 115
@@ -90,7 +90,7 @@ total:
   commit: 2540
 ---
 path: /home/runner/.x-repo/github.com/darrenldl/docfd
-collectedAt: 2026-09-09T05:37:27Z
+collectedAt: 2026-09-09T19:49:24Z
 loc:
   OCaml:
     code: 14877
