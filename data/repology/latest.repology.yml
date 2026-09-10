@@ -1,0 +1,34 @@
+- repo: aur
+  srcname: docfd-bin
+  binname: docfd-bin
+  visiblename: docfd-bin
+  version: 13.1.1
+  origversion: 13.1.1-1
+  status: newest
+  summary: TUI multiline fuzzy document finder
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: docfd
+  visiblename: docfd
+  version: 12.3.2
+  origversion: null
+  status: outdated
+  summary: TUI multiline fuzzy document finder
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: docfd
+  visiblename: docfd
+  version: 12.3.2
+  origversion: null
+  status: outdated
+  summary: TUI multiline fuzzy document finder
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
