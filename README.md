@@ -4,7 +4,7 @@
 
 TUI multiline fuzzy document finder
 
-![docfd](https://repo.x-cmd.io/docfd.svg)
+[![x-cmd/install — docfd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/docfd.svg)](https://x-cmd.com/install/docfd)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **15,045** lines of code across **82** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 2 | 0 | 0 | 0 | 0 | 59 |
-| last60d | 2026-07-20 | 3 | 0 | 0 | 0 | 0 | 134 |
-| 90d | 2026-06-20 | 3 | 0 | 0 | 0 | 0 | 151 |
-| last180d | 2026-03-22 | 5 | 0 | 0 | 0 | 0 | 240 |
-| 360d | 2025-09-23 | 11 | 1 | 0 | 2 | 1 | 408 |
-| last720d | 2024-09-28 | 34 | 1 | 0 | 8 | 2 | 1195 |
+| 30d | 2026-08-21 | 2 | 0 | 0 | 0 | 0 | 39 |
+| last60d | 2026-07-22 | 2 | 0 | 0 | 0 | 0 | 134 |
+| 90d | 2026-06-22 | 3 | 0 | 0 | 0 | 0 | 151 |
+| last180d | 2026-03-24 | 5 | 0 | 0 | 0 | 0 | 235 |
+| 360d | 2025-09-25 | 11 | 1 | 0 | 2 | 1 | 397 |
+| last720d | 2024-09-30 | 34 | 1 | 0 | 8 | 2 | 1188 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:33:30Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:38:41Z._
