@@ -22,7 +22,7 @@ Total: **15,045** lines of code across **82** files in the top 5 languages.
 | Sh | 80 | 3 | 32 | 3 |
 | Makefile | 73 | 0 | 16 | 1 |
 | Python | 15 | 0 | 6 | 1 |
-| Markdown | 0 | 1,185 | 740 | 2 |
+| Markdown | 0 | 1,184 | 740 | 2 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **15,045** lines of code across **82** files in the top 5 languages.
 ## Release
 
 - **Latest**: `13.1.1` (2026-09-08)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-21
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **15,045** lines of code across **82** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 115 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2540
+- **Releases**: 115 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2541
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 0 | 0 | 0 | 0 | 39 |
-| last60d | 2026-07-23 | 2 | 0 | 0 | 0 | 0 | 134 |
-| 90d | 2026-06-23 | 3 | 0 | 0 | 0 | 0 | 151 |
-| last180d | 2026-03-25 | 5 | 0 | 0 | 0 | 0 | 235 |
-| 360d | 2025-09-26 | 11 | 1 | 0 | 2 | 1 | 397 |
-| last720d | 2024-10-01 | 34 | 1 | 0 | 8 | 2 | 1188 |
+| 30d | 2026-08-23 | 2 | 0 | 0 | 0 | 0 | 40 |
+| last60d | 2026-07-24 | 2 | 0 | 0 | 0 | 0 | 135 |
+| 90d | 2026-06-24 | 3 | 0 | 0 | 0 | 0 | 152 |
+| last180d | 2026-03-26 | 5 | 0 | 0 | 0 | 0 | 236 |
+| 360d | 2025-09-27 | 11 | 1 | 0 | 2 | 1 | 398 |
+| last720d | 2024-10-02 | 34 | 1 | 0 | 8 | 2 | 1186 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:42:27Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:42:50Z._
