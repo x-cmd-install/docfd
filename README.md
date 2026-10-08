@@ -14,15 +14,15 @@ x install docfd
 
 ## Code insight
 
-Total: **15,069** lines of code across **83** files in the top 5 languages.
+Total: **15,080** lines of code across **83** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| OCaml | 14,901 | 122 | 1,070 | 76 |
+| OCaml | 14,912 | 122 | 1,070 | 76 |
 | Sh | 80 | 3 | 32 | 3 |
 | Makefile | 73 | 0 | 16 | 1 |
 | Python | 15 | 0 | 6 | 1 |
-| Markdown | 0 | 1,191 | 744 | 2 |
+| Markdown | 0 | 1,194 | 744 | 2 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **15,069** lines of code across **83** files in the top 5 languages.
 ## Release
 
 - **Latest**: `13.1.2` (2026-10-03)
-- **Last commit**: 2026-10-06
+- **Last commit**: 2026-10-08
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **15,069** lines of code across **83** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2556
+- **Releases**: 116 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2570
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 2 | 0 | 0 | 0 | 0 | 16 |
-| last60d | 2026-08-08 | 3 | 0 | 0 | 0 | 0 | 150 |
-| 90d | 2026-07-09 | 4 | 0 | 0 | 0 | 0 | 166 |
-| last180d | 2026-04-10 | 6 | 0 | 0 | 0 | 0 | 240 |
-| 360d | 2025-10-12 | 12 | 1 | 0 | 2 | 1 | 399 |
-| last720d | 2024-10-17 | 35 | 1 | 0 | 8 | 2 | 1182 |
+| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 30 |
+| last60d | 2026-08-09 | 3 | 0 | 0 | 0 | 0 | 164 |
+| 90d | 2026-07-10 | 4 | 0 | 0 | 0 | 0 | 180 |
+| last180d | 2026-04-11 | 6 | 0 | 0 | 0 | 0 | 254 |
+| 360d | 2025-10-13 | 12 | 1 | 0 | 2 | 1 | 413 |
+| last720d | 2024-10-18 | 35 | 1 | 0 | 8 | 2 | 1196 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:36:57Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:48:23Z._
