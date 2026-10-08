@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2930416,
       "digest": "sha256:6dfcf8f785e203c91a94cdb6b75157cab5da6792ec1fe4f48dad1dc78da114b1",
-      "download_count": 111,
+      "download_count": 161,
       "created_at": "2026-10-03T03:31:00Z",
       "updated_at": "2026-10-03T03:31:04Z",
       "browser_download_url": "https://github.com/darrenldl/docfd/releases/download/13.1.2/13.1.2.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5260395,
       "digest": "sha256:8f8610cdbc1ec4645e4fd0593b1423d3a9c0b53fdfd3fb6cdc7539210c2e4680",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-10-03T03:33:43Z",
       "updated_at": "2026-10-03T03:33:43Z",
       "browser_download_url": "https://github.com/darrenldl/docfd/releases/download/13.1.2/docfd-13.1.2-linux-arm.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5242103,
       "digest": "sha256:638d0699debcfea9013b645155757de0b6905b6989cf9d9b39dd0fe61d03bc57",
-      "download_count": 22,
+      "download_count": 24,
       "created_at": "2026-10-03T03:35:43Z",
       "updated_at": "2026-10-03T03:35:43Z",
       "browser_download_url": "https://github.com/darrenldl/docfd/releases/download/13.1.2/docfd-13.1.2-linux.tar.gz"
