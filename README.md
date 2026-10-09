@@ -14,15 +14,15 @@ x install docfd
 
 ## Code insight
 
-Total: **15,080** lines of code across **83** files in the top 5 languages.
+Total: **15,092** lines of code across **83** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| OCaml | 14,912 | 122 | 1,070 | 76 |
+| OCaml | 14,924 | 122 | 1,070 | 76 |
 | Sh | 80 | 3 | 32 | 3 |
 | Makefile | 73 | 0 | 16 | 1 |
 | Python | 15 | 0 | 6 | 1 |
-| Markdown | 0 | 1,194 | 744 | 2 |
+| Markdown | 0 | 1,196 | 744 | 2 |
 
 ## Source
 
@@ -32,8 +32,8 @@ Total: **15,080** lines of code across **83** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `13.1.2` (2026-10-03)
-- **Last commit**: 2026-10-08
+- **Latest**: `13.1.3` (2026-10-09)
+- **Last commit**: 2026-10-09
 - **Assets in release**: 4
 
 ## Popularity
@@ -42,27 +42,27 @@ Total: **15,080** lines of code across **83** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 116 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2570
+- **Releases**: 117 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 0 | 0 | 0 | 0 | 30 |
-| last60d | 2026-08-09 | 3 | 0 | 0 | 0 | 0 | 164 |
-| 90d | 2026-07-10 | 4 | 0 | 0 | 0 | 0 | 180 |
-| last180d | 2026-04-11 | 6 | 0 | 0 | 0 | 0 | 254 |
-| 360d | 2025-10-13 | 12 | 1 | 0 | 2 | 1 | 413 |
-| last720d | 2024-10-18 | 35 | 1 | 0 | 8 | 2 | 1196 |
+| 30d | 2026-09-09 | 2 | 0 | 0 | 0 | 0 | 35 |
+| last60d | 2026-08-10 | 4 | 0 | 0 | 0 | 0 | 169 |
+| 90d | 2026-07-11 | 5 | 0 | 0 | 0 | 0 | 185 |
+| last180d | 2026-04-12 | 7 | 0 | 0 | 0 | 0 | 259 |
+| 360d | 2025-10-14 | 12 | 1 | 0 | 2 | 1 | 418 |
+| last720d | 2024-10-19 | 36 | 1 | 0 | 8 | 2 | 1201 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [13.1.2.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.2/13.1.2.tar.gz) | 2.8 MiB | `native/unknown` |
-| [docfd-13.1.2-linux-arm.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.2/docfd-13.1.2-linux-arm.tar.gz) | 5.0 MiB | `native/linux/arm` |
-| [docfd-13.1.2-linux.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.2/docfd-13.1.2-linux.tar.gz) | 5.0 MiB | `native/unknown` |
-| [docfd-13.1.2-macos.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.2/docfd-13.1.2-macos.tar.gz) | 3.0 MiB | `native/darwin/x64` |
+| [13.1.3.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/13.1.3.tar.gz) | 2.8 MiB | `native/unknown` |
+| [docfd-13.1.3-linux-arm.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/docfd-13.1.3-linux-arm.tar.gz) | 5.0 MiB | `native/linux/arm` |
+| [docfd-13.1.3-linux.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/docfd-13.1.3-linux.tar.gz) | 5.0 MiB | `native/unknown` |
+| [docfd-13.1.3-macos.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/docfd-13.1.3-macos.tar.gz) | 3.0 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:48:23Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:49:11Z._
