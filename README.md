@@ -38,22 +38,22 @@ Total: **15,092** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 289 · **Forks**: 5 · **Open issues**: 18 · **Contributors**: 3
+- **Stars**: 289 · **Forks**: 5 · **Open issues**: 19 · **Contributors**: 3
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 3 · **Commits**: 2575
+- **Releases**: 117 · **Merged PRs**: 2 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 4 · **Commits**: 2575
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 2 | 0 | 0 | 0 | 0 | 35 |
-| last60d | 2026-08-11 | 4 | 0 | 0 | 0 | 0 | 169 |
-| 90d | 2026-07-12 | 5 | 0 | 0 | 0 | 0 | 185 |
-| last180d | 2026-04-13 | 7 | 0 | 0 | 0 | 0 | 259 |
-| 360d | 2025-10-15 | 12 | 1 | 0 | 2 | 1 | 418 |
-| last720d | 2024-10-20 | 36 | 1 | 0 | 8 | 2 | 1201 |
+| 30d | 2026-09-11 | 2 | 0 | 0 | 0 | 1 | 35 |
+| last60d | 2026-08-12 | 4 | 0 | 0 | 0 | 1 | 130 |
+| 90d | 2026-07-13 | 5 | 0 | 0 | 0 | 1 | 174 |
+| last180d | 2026-04-14 | 7 | 0 | 0 | 0 | 1 | 250 |
+| 360d | 2025-10-16 | 12 | 1 | 0 | 2 | 2 | 414 |
+| last720d | 2024-10-21 | 36 | 1 | 0 | 8 | 3 | 1201 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:21:36Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:17:37Z._
