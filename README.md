@@ -14,11 +14,11 @@ x install docfd
 
 ## Code insight
 
-Total: **15,091** lines of code across **83** files in the top 5 languages.
+Total: **15,210** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| OCaml | 14,923 | 122 | 1,073 | 76 |
+| OCaml | 15,042 | 128 | 1,082 | 78 |
 | Sh | 80 | 3 | 32 | 3 |
 | Makefile | 73 | 0 | 16 | 1 |
 | Python | 15 | 0 | 6 | 1 |
@@ -38,22 +38,22 @@ Total: **15,091** lines of code across **83** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 289 · **Forks**: 6 · **Open issues**: 19 · **Contributors**: 3
+- **Stars**: 289 · **Forks**: 6 · **Open issues**: 19 · **Contributors**: 4
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 2 · **Open PRs**: 1 · **Closed issues**: 15 · **Open issues**: 4 · **Commits**: 2584
+- **Releases**: 117 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 4 · **Commits**: 2589
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 2 | 0 | 1 | 0 | 1 | 44 |
-| last60d | 2026-08-17 | 4 | 0 | 1 | 0 | 1 | 139 |
-| 90d | 2026-07-18 | 5 | 0 | 1 | 0 | 1 | 183 |
-| last180d | 2026-04-19 | 7 | 0 | 1 | 0 | 1 | 259 |
-| 360d | 2025-10-21 | 12 | 0 | 1 | 1 | 2 | 423 |
-| last720d | 2024-10-26 | 36 | 1 | 1 | 8 | 3 | 1208 |
+| 30d | 2026-09-17 | 2 | 1 | 0 | 0 | 1 | 49 |
+| last60d | 2026-08-18 | 4 | 1 | 0 | 0 | 1 | 144 |
+| 90d | 2026-07-19 | 5 | 1 | 0 | 0 | 1 | 188 |
+| last180d | 2026-04-20 | 7 | 1 | 0 | 0 | 1 | 264 |
+| 360d | 2025-10-22 | 12 | 1 | 0 | 1 | 2 | 428 |
+| last720d | 2024-10-27 | 36 | 2 | 0 | 8 | 3 | 1213 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:10:23Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T05:09:43Z._
