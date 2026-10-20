@@ -32,7 +32,7 @@ Total: **15,629** lines of code across **85** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `13.1.3` (2026-10-09)
+- **Latest**: `13.2.0` (2026-10-19)
 - **Last commit**: 2026-10-19
 - **Assets in release**: 4
 
@@ -42,27 +42,27 @@ Total: **15,629** lines of code across **85** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 117 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 15 · **Open issues**: 4 · **Commits**: 2648
+- **Releases**: 118 · **Merged PRs**: 3 · **Open PRs**: 0 · **Closed issues**: 16 · **Open issues**: 3 · **Commits**: 2649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 2 | 1 | 0 | 0 | 1 | 107 |
-| last60d | 2026-08-20 | 4 | 1 | 0 | 0 | 1 | 158 |
-| 90d | 2026-07-21 | 4 | 1 | 0 | 0 | 1 | 242 |
-| last180d | 2026-04-22 | 7 | 1 | 0 | 0 | 1 | 308 |
-| 360d | 2025-10-24 | 12 | 1 | 0 | 1 | 2 | 484 |
-| last720d | 2024-10-29 | 36 | 2 | 0 | 8 | 3 | 1271 |
+| 30d | 2026-09-20 | 3 | 1 | 0 | 1 | 0 | 108 |
+| last60d | 2026-08-21 | 5 | 1 | 0 | 1 | 0 | 159 |
+| 90d | 2026-07-22 | 5 | 1 | 0 | 1 | 0 | 243 |
+| last180d | 2026-04-23 | 8 | 1 | 0 | 1 | 0 | 309 |
+| 360d | 2025-10-25 | 13 | 1 | 0 | 2 | 1 | 485 |
+| last720d | 2024-10-30 | 37 | 2 | 0 | 9 | 2 | 1272 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [13.1.3.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/13.1.3.tar.gz) | 2.8 MiB | `native/unknown` |
-| [docfd-13.1.3-linux-arm.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/docfd-13.1.3-linux-arm.tar.gz) | 5.0 MiB | `native/linux/arm` |
-| [docfd-13.1.3-linux.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/docfd-13.1.3-linux.tar.gz) | 5.0 MiB | `native/unknown` |
-| [docfd-13.1.3-macos.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.1.3/docfd-13.1.3-macos.tar.gz) | 3.0 MiB | `native/darwin/x64` |
+| [13.2.0.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.2.0/13.2.0.tar.gz) | 5.5 MiB | `native/unknown` |
+| [docfd-13.2.0-linux-arm.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.2.0/docfd-13.2.0-linux-arm.tar.gz) | 5.1 MiB | `native/linux/arm` |
+| [docfd-13.2.0-linux.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.2.0/docfd-13.2.0-linux.tar.gz) | 5.1 MiB | `native/unknown` |
+| [docfd-13.2.0-macos.tar.gz](https://github.com/darrenldl/docfd/releases/download/13.2.0/docfd-13.2.0-macos.tar.gz) | 3.1 MiB | `native/darwin/x64` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:12:02Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:27:30Z._
