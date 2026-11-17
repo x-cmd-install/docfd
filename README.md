@@ -48,12 +48,12 @@ Total: **15,634** lines of code across **85** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 0 | 0 | 0 | 2 | 3 |
-| last60d | 2026-09-17 | 3 | 1 | 0 | 1 | 2 | 111 |
-| 90d | 2026-08-18 | 5 | 1 | 0 | 1 | 2 | 170 |
-| last180d | 2026-05-20 | 7 | 1 | 0 | 1 | 2 | 290 |
-| 360d | 2025-11-21 | 13 | 1 | 0 | 2 | 3 | 461 |
-| last720d | 2024-11-26 | 36 | 2 | 0 | 9 | 4 | 1196 |
+| 30d | 2026-10-18 | 1 | 0 | 0 | 0 | 2 | 3 |
+| last60d | 2026-09-18 | 3 | 1 | 0 | 1 | 2 | 111 |
+| 90d | 2026-08-19 | 5 | 1 | 0 | 1 | 2 | 170 |
+| last180d | 2026-05-21 | 7 | 1 | 0 | 1 | 2 | 290 |
+| 360d | 2025-11-22 | 13 | 1 | 0 | 2 | 3 | 461 |
+| last720d | 2024-11-27 | 36 | 2 | 0 | 9 | 4 | 1195 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for docfd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:34:46Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T08:59:39Z._
